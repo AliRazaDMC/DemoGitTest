@@ -1,0 +1,6 @@
+// > 05 EC3 Fundamentals > 033 video
+	- general purpose
+	- Compute Optimized > Batch Processing
+
+// > 05 EC3 Fundamentals > 043 video
+	- EC2 Spot Instances
